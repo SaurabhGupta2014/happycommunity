@@ -120,8 +120,7 @@ function ContactPage() {
                     </p>
                     
                     <p className="rightDivPara">
-                          <span>Address:</span> 198 West 21th Street, Suite 721
-                          New York NY 10016
+                          <span>Address:</span> LNMIIT
                     </p>
 
                     
@@ -134,13 +133,13 @@ function ContactPage() {
                     <p className="rightDivPara">
                           <span>Email:</span>
                           <a href="mailto:info@yoursite.com">
-                            info@yoursite.com
+                            info@happycommunity.com
                           </a>
                     </p>
 
-                    <p> className="rightDivPara"
+                    <p> 
                       <span>Website:</span>
-                      <a href="#">yoursite.com</a>
+                      <a href="https://happycommunity.vercel.app/"> happycommunity.com</a>
                     </p>
                     
                   </div>
