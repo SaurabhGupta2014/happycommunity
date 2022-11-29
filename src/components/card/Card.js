@@ -14,7 +14,7 @@ const Card = (props) => {
                 <div class="card-body d-flex flex-column" style={{marginTop : "30px"}}>
                     <span className='cardInnerBox'>
                         <h5 class="card-title" className='cardInnerBoxHeading1'>{props.room.title}</h5>
-                        <p class="card-text" className='cardInnerBoxText1'>{props.desc}</p>
+                        <p class="card-text" className='cardInnerBoxText1'>{props.room.desc}</p>
                         
                         {
                             props.isJoin && <button type="button" onClick={()=>{deleteMyCommunity(props.docid,user);props.callFunc();}} className="cardJoinButton2">LEAVE</button>
