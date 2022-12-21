@@ -1,12 +1,25 @@
-# React and Firebase Chat App
+# Happy Community
+Happy Community is a website for bringing people closer via different Communities
+which particularly tells the end user about different people and they can explore areas
+of their mutual interest and create a healthy environment.
 
-This is the project code for [my tutorial on LogRocket](https://blog.logrocket.com/how-to-build-chatroom-app-react-firebase/).
+### Happy Community includes many features:
+* Google Authentication
+* Users can Join and leave the community
+* User can choose their interest
+* Users can find the top 6 communities according to their interests.
+* Users can chat within the community
 
-If you found my post helpful, please consider supporting my work financially:
+### Built using Reactjs and Firebase Database
 
-<a href="https://www.buymeacoffee.com/zachsnoek" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<br />
+<img src="https://github.com/SaurabhGupta2014/happycommunity/blob/master/Images/0.jpg" /> 
+<img src="https://github.com/SaurabhGupta2014/happycommunity/blob/master/Images/1.png" /> 
+<img src="https://github.com/SaurabhGupta2014/happycommunity/blob/master/Images/2.png" /> 
+<img src="https://github.com/SaurabhGupta2014/happycommunity/blob/master/Images/3.png" /> 
+<img src="https://github.com/SaurabhGupta2014/happycommunity/blob/master/Images/4.png" /> 
+ 
+  
 
-## Getting started
 
-1. Add your Firebase config to `src/services/firebase.js`
-2. Run `yarn && yarn start`
+[Checkout Website](http://happycommunity.vercel.app/)
