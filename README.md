@@ -13,12 +13,13 @@ of their mutual interest and create a healthy environment.
 ### Built using Reactjs and Firebase Database
 
 <br />
+<img src="https://github.com/SaurabhGupta2014/happycommunity/blob/main/images/0.jpg"/> 
 <p align="left"> 
-<img src="https://github.com/SaurabhGupta2014/happycommunity/blob/main/images/0.jpg" /> 
-<img src="https://github.com/SaurabhGupta2014/happycommunity/blob/main/images/1.png" /> 
-<img src="https://github.com/SaurabhGupta2014/happycommunity/blob/main/images/2.png" /> 
-<img src="https://github.com/SaurabhGupta2014/happycommunity/blob/main/images/3.png" /> 
-<img src="https://github.com/SaurabhGupta2014/happycommunity/blob/main/images/4.png" /> 
+
+<img src="https://github.com/SaurabhGupta2014/happycommunity/blob/main/images/1.png" width="500"/> 
+<img src="https://github.com/SaurabhGupta2014/happycommunity/blob/main/images/2.png" width="500"/> 
+<img src="https://github.com/SaurabhGupta2014/happycommunity/blob/main/images/3.png" width="500"/> 
+<img src="https://github.com/SaurabhGupta2014/happycommunity/blob/main/images/4.png" width="500"/> 
 </p>
   
 
